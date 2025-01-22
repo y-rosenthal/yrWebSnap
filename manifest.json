@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "DOM Capture",
+  "name": "YR WebSnap",
   "version": "1.0",
-  "description": "Captures the complete webpage DOM as it appears at runtime",
+  "description": "Download a snapshot of a webpage as an html file.",
   "permissions": [
     "activeTab",
     "downloads",
